@@ -31,7 +31,7 @@
 
 - Run the installation script using the following command.
     ```bash 
-        ./install_localcolabfold.sh | tee install_localcolabfold.sh
+        ./install_localcolabfold.sh | tee install_localcolabfold.log
     ```
 
 - After this script has run successfully, we are ready to test our installation.
